@@ -1,7 +1,0 @@
-THE ARTISANS HUB ADMIN LOGIN
-
-Username: ADMIN VIBES
-Password: VIBES@OAH2026
-
-Database: Browser Local Storage (FREE)
-Image Upload: Select image files directly from desktop.
